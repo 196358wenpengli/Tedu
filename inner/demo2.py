@@ -1,0 +1,5 @@
+# f = open('demo01.py', 'r')
+# f = open('file', 'w')
+f = open('file', 'a')
+print(f)
+f.close()
